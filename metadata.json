@@ -1,0 +1,6 @@
+{
+  "name": "Notificaciones - Android Floating Notifications Studio",
+  "description": "Panel de control y personalización para notificaciones flotantes (Heads-up Notifications) en Android 14+. Diseña, prueba e interactúa en tiempo real con estilos premium.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
